@@ -85,7 +85,7 @@ nav ul li {
 .social i:hover {
   color: #ffffff;
 }
-a.social: hover {
+a.social :hover {
   transform: translateY(-2px);
 }
 
@@ -115,11 +115,8 @@ p {
 }
 
 .github social {
-  position: relative {
+  position: relative;s
     left: 20px;
-  }
-
-  padding-right: 100px;
 }
 
 .linkedin social {
