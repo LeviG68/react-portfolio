@@ -25,6 +25,10 @@ body {
   flex: var(--condiv-flex);
 }
 
+.condiv skills {
+  font-family: "Merriweather", serif;
+}
+
 nav {
   padding: 60px 30px 0px 30px;
   flex: var(--sidebar-flex);
@@ -116,7 +120,7 @@ p {
 
 .github social {
   position: relative;
-    left: 20px;
+  left: 20px;
 }
 
 .linkedin social {

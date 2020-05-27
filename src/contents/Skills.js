@@ -21,7 +21,7 @@ render() {
 
         <ul>
         {this.state.myskills.map((value)=>{
-            return <il>{value}</il>
+            return <il><b>{value}</b></il>
         })}
         </ul>
 

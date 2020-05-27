@@ -16,7 +16,7 @@ class Social extends Component {
                 </a>
                 <a href="https://www.linkedin.com/in/levi-glendenning/" className="linkedin social"><FontAwesomeIcon icon={faLinkedin} size='2x'/>
                 </a>
-                <a href="@DevopPeachfuzz" className= "twitter social"><FontAwesomeIcon icon={faTwitter} size='2x' />
+                <a href="https://twitter.com/@DevopPeachfuzz" className= "twitter social"><FontAwesomeIcon icon={faTwitter} size='2x' />
                 </a>
                 
 
