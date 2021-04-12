@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGithub, faLinkedin, faTwitter} from '@fortawesome/free-brands-svg-icons'
-
+import GitHubIcon from '@material-ui/icons/GitHub';
 
 
 class Social extends Component {
@@ -11,7 +11,7 @@ class Social extends Component {
         return (
 
             <div className='social'>
-
+            
                 <a href="https://github.com/LeviG68" className= "github social"> <FontAwesomeIcon icon={faGithub} size='2x'/>
                 </a>
                 <a href="https://www.linkedin.com/in/levi-glendenning/" className="linkedin social"><FontAwesomeIcon icon={faLinkedin} size='2x'/>

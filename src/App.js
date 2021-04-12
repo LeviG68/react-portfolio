@@ -9,6 +9,8 @@ import About from './contents/About';
 import Education from './contents/Education';
 import Skills from './contents/Skills';
 import Contact from './contents/Contact';
+import Project from './contents/Projects';
+
 
 
 
@@ -33,7 +35,7 @@ function App() {
                     <Education />
                 </Route>
 
-                {/* Route for Education.js content */}
+                {/* Route for Skills.js content */}
                 <Route path="/skills">
                     <Skills />
                 </Route>
@@ -42,6 +44,12 @@ function App() {
                  <Route path="/contact">
                     <Contact />
                 </Route>
+
+                {/* Route for Projects.js content */}
+                <Route path="/project">
+                <Project />
+            </Route>
+
 
             </div>
         </Router>

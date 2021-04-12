@@ -8,7 +8,7 @@ constructor(props)
     super(props);
 
     this.state={
-        'myskills':['HTML |', ' CSS |', ' JavaScript |', ' React.Js |', ' Google FireBase |', ' Git |', ' Command-Line |', ' Restful API’s |',' QA/Automated Testing', ' Python |', ' Node.Js |', ' PHP |', ' Express.Js |', ' SQL |', ' MongoDB |', ' CS fundamentals |', ' jQuery |', ' AJAX |', ' Mocha |', ' Chia |', ' Nightmare |', ' Mongoose |', ' Cherrio.Js |', ' Selenium |', ' Cucumber |', ' Testing life cycle |', ' DOM manipulation |', ' JSON |', ' data structures/algorithms |', ' MVC design patterns |', ' Laravel'
+        'myskills':['HTML |', ' CSS |', ' JavaScript |', ' React.Js |', ' Google FireBase |', ' Git |', ' Command-Line |', ' Restful API’s |',' QA Testing', ' Python |', ' Node.Js |', ' PHP |', ' Express.Js |', ' SQL |', ' MongoDB |', ' CS fundamentals |', ' jQuery |', ' AJAX |', ' Mocha |', ' Chia |', ' Nightmare |', ' Mongoose |', ' Cherrio.Js |', ' Selenium |', ' Cucumber |', ' Testing life cycle |', ' DOM manipulation |', ' JSON |', ' data structures/algorithms |', ' MVC design patterns'
     ]
 
     };
@@ -32,4 +32,4 @@ render() {
 }
 }
 
-export default Skills
+export default Skills;

@@ -12,7 +12,7 @@ class Home extends Component {
             
             <img src={image} className='profilePic' alt= "profile pic"></img>
             
-            <ReactTypingEffect className='typingeffect' text={[ "Hello, I'm Levi Glendenning", 'I am a Web Developer']} speed={100} eraseDelay={700}/>
+            <ReactTypingEffect className='typingeffect' text={[ "Hi, I'm Levi. Nice to meet you !"]} speed={100} eraseDelay={700}/>
             
             <Social/>
 
@@ -21,4 +21,4 @@ class Home extends Component {
     }
 }
 
-export default Home
+export default Home;
