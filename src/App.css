@@ -117,21 +117,28 @@ p {
   background-color: #ffffff;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
-
-.github social {
+/* .mail{
+  display: inline;
   position: relative;
-  left: 20px;
+  padding-right: 20px;
+}
+.github {
+  display: inline;
+  position: relative;
+  padding-left: 20px;
 }
 
-.linkedin social {
+.linkedin{
+  display: inline;
   position: relative;
   padding-right: 100px;
 }
 
-.twitter social {
+.twitter{
+  display: inline;
   position: relative;
   padding-right: 100px;
-}
+} */
 a.linkedin {
   color: #2867b2;
 }
