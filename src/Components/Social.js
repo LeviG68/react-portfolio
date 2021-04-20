@@ -28,25 +28,25 @@ class Social extends Component {
             <Grid container spacing={1} justify="center">
                 <ThemeProvider theme={customTheme}>
                     <Grid item xs={1}>
-                        <Button>
-                            <MailOutlineIcon fontSize="large" spacing={4} href='mailto:glendenning.levi@gmail.com'/>
+                        <Button href='mailto:glendenning.levi@gmail.com'>
+                            <MailOutlineIcon fontSize="large" spacing={4}/>
                         </Button>    
                     </Grid>
 
                     <Grid item xs={1}>
-                        <Button>
-                            <GitHubIcon  fontSize='large' style={{color:'#211F1F'}} href=''/>
+                        <Button href='https://github.com/LeviG68'>
+                            <GitHubIcon  fontSize='large' style={{color:'#211F1F'}}/>
                         </Button>
                     </Grid>
 
                     <Grid item xs={1}>
-                        <Button>
+                        <Button href='https://twitter.com/DevopPeachfuzz'>
                             <TwitterIcon fontSize='Large' style={{color:'#1DA1F2'}} />
                         </Button>
                     </Grid>
 
                     <Grid item xs={1}>
-                        <Button>
+                        <Button href='https://www.linkedin.com/in/levi-glendenning/'>
                             <LinkedInIcon fontSize='Large'  style={{color:'#2867B2'}} />
                         </Button>
                     </Grid>
