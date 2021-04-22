@@ -43,7 +43,7 @@ export default function MediaCard() {
       </CardActionArea>
       <CardActions>
         <Button size="small" color="primary" href="########">
-          Link to Site
+          Github repo
         </Button>
       </CardActions>
     </Card>
