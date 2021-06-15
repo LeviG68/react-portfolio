@@ -27,17 +27,17 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           component="img"
-          alt="Metal Media Fabications"
+          alt="Metal Media Fabrication"
           height= "160"
           image={MetalMedia}
-          title="Metal Media Fabracations"
+          title="Metal Media Fabrications"
         />
         <CardContent>
           <Typography gutterBottom variant="h6" component="h2">
-            Metal Media Fabications
+            Metal Media Fabrication
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-            Metal Media Fabications is a landing page for a small company that is desigining and developing all metal hand raillings, handles, fire pits and landscape lawn art.
+            Metal Media Fabrication is a landing page for a small company that is desigining and developing all metal hand raillings, handles, fire pits and landscape lawn art.
           </Typography>
         </CardContent>
       </CardActionArea>
