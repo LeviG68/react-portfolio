@@ -15,8 +15,6 @@ import Project from './contents/Projects';
 
 
 function App() {
-
-    
     
     return (
         <Router>
