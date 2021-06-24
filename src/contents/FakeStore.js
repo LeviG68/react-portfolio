@@ -42,8 +42,12 @@ export default function MediaCard() {
         </CardContent>
       </CardActionArea>
       <CardActions>
-        <Button size="small" color="primary" href="########">
-          Github repo
+        <Button size="small" color="primary" href="https://levig68.github.io/React-Shopping-Cart/">
+          Website
+        </Button>
+        <br></br>
+        <Button size="small" color="primary" href="https://github.com/LeviG68/React-Shopping-Cart">
+          GitHub 
         </Button>
       </CardActions>
     </Card>

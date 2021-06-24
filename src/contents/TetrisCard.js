@@ -42,8 +42,11 @@ export default function MediaCard() {
         </CardContent>
       </CardActionArea>
       <CardActions>
-        <Button size="small" color="primary" href="########">
-          GitHub repo
+        <Button size="small" color="primary" href="https://levig68.github.io/reactTetris/">
+          Website
+        </Button>
+        <Button size="small" color="primary" href="https://github.com/LeviG68/reactTetris">
+          GitHub  
         </Button>
       </CardActions>
     </Card>
